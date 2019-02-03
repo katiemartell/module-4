@@ -1,0 +1,83 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.cats {
+  height: 5rem;
+  background: #000000 url(../images/banner-image.jpg) 100% 100% no-repeat;
+  padding: 3rem;
+  margin-bottom: 0rem;
+  margin-top: 1.5rem;
+}
+.header-link{
+  color:black;
+}
+.global-nav{
+  height: 1rem;
+  background-color: lightgray;
+  padding: 1rem 3rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
+}
+a:link {
+  text-decoration: none;
+}
+h1{
+  color: white;
+}
+h3{
+  color: white;
+}
+h2{
+  color:  #3385ff;
+}
+h4{
+  text-transform: uppercase;
+}
+.article-link{
+  color: #3385ff;
+}
+.news{
+  float: right;
+  width: 30%;
+}
+.main{
+  float: left;
+  width: 60%;
+  padding-left: 3rem;
+}
+aside{
+  margin-right: 3rem;
+}
+#sidebar-image{
+  width: 10rem;
+  height: 10rem;
+}
+.quote{
+  color:  #3385ff;
+  font-size: 1rem;
+}
+#quote-author{
+  margin-top: -1rem;
+  font-style: italic;
+}
+footer{
+  height: 8rem;
+  background: #000000 url(../images/footer-image.jpg) 100% 100% no-repeat;
+  padding: 3rem;
+  margin-bottom: 0rem;
+  clear: both;
+}
+#cat-logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.bottom{
+  text-align: center;
+  color: white;
+  font-size: .75rem;
+}
+.footer-link{
+  color:white;
+}
